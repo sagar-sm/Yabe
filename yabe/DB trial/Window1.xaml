@@ -1,0 +1,6 @@
+﻿<NavigationWindow x:Class="DB_trial.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Yabee" Height="480" Width="720" Source="Page1.xaml">
+
+</NavigationWindow>

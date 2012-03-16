@@ -1,0 +1,37 @@
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\App.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\DB trial_MarkupCompile.cache
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\DB trial.g.resources
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\DB_trial.Properties.Resources.resources
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\DB trial.exe
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\DB trial.pdb
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\Npgsql.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\Mono.Security.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\Npgsql.pdb
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\Npgsql.xml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\DB trial.exe
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\DB trial.pdb
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\Page1.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\Page1.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\Window1.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\Window1.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\Page2.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\Page2.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\BuyPage.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\CheckPage.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\SellPage.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\BuyPage.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\CheckPage.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\SellPage.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\CheckOut.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\CheckOut.g.cs
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\CheckInv.baml
+C:\Users\Sagar\Documents\Visual Studio 2010\Projects\DB trial\DB trial\obj\x86\Debug\CheckInv.g.cs

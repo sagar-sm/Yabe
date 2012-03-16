@@ -1,0 +1,17 @@
+﻿<Page x:Class="DB_trial.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Main Menu">
+
+    <Grid>
+        <TextBlock Height="63" HorizontalAlignment="Left" Margin="24,16,0,0" Name="textBlock1" Text="Menu" VerticalAlignment="Top" Width="175" FontFamily="/DB trial;component/Fonts/#Segoe UI Light" FontSize="48" />
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="33,84,0,0" x:Name="textBlock2"  VerticalAlignment="Top" Width="224" FontFamily="/DB trial;component/Fonts/#Segoe UI Light" FontSize="18.667" ><Run FontSize="14.667" FontFamily="Segoe WP Semibold" Language="en-in" Text="»"/><Run Text=" "/><Hyperlink NavigateUri="BuyPage.xaml"><Run Text="Buy or Browse Products"/></Hyperlink></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="33,120,0,0" x:Name="textBlock3" Width="248" FontSize="18.667" FontFamily="/DB trial;component/Fonts/#Segoe UI Light" Height="29" VerticalAlignment="Top"><Run Language="en-in" Text="»"/><Run Text=" "/><Hyperlink NavigateUri="SellPage.xaml"><Run Text="Sell your Products"/></Hyperlink></TextBlock>
+        <TextBlock Height="35" HorizontalAlignment="Left" Margin="33,156,0,0" x:Name="textBlock4" VerticalAlignment="Top" Width="239" FontFamily="/DB trial;component/Fonts/#Segoe UI Light" FontSize="18.667" ><Run Language="en-in" Text="»"/><Run Text=" "/><Hyperlink NavigateUri="CheckOut.xaml"><Run Text="Check your Shopping Cart"/></Hyperlink></TextBlock>
+        <TextBlock FontFamily="/DB trial;component/Fonts/#Segoe UI Light" FontSize="18.667" Height="35" HorizontalAlignment="Left" Margin="33,193,0,0" x:Name="textBlock5" VerticalAlignment="Top" Width="255"><Run Language="en-in" Text="»"/><Run Text=" "/><Hyperlink NavigateUri="CheckInv.xaml"><Run Text="See your shopping history"/></Hyperlink></TextBlock>
+    </Grid>
+</Page>
